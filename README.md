@@ -19,7 +19,7 @@ After witnessing the explosive growth of in house content creation from the like
 ## Data
 
 ***
-This analysis leverages data sourced from IMDB and Box Office Mojo, two of the most prominent movie related databases. Data sourced from IMDB included information on movie title, genre, runtime and rating, and data from Box Office Mojo included information on box office gross earnings. The variables from IMDB describe important movie characteristics that can impact a movie's performance at the box office.
+This analysis leverages data sourced from [IMDB](https://developer.imdb.com/?ref_=helpms_ih_gi_developer) and [Box Office Mojo](https://www.boxofficemojo.com/), two of the most prominent movie related databases. Data sourced from IMDB included information on movie title, genre, runtime and rating, and data from Box Office Mojo included information on box office gross earnings. The variables from IMDB describe important movie characteristics that can impact a movie's performance at the box office.
 
 While the data will provide insight on movie box office performance, they do have limitations. Including more data, for example data on MPAA ratings, movie budgets, distribution location, release date, actors, directors, and more, could provide much more detailed insight into how to produce profitable movies.
 
