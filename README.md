@@ -19,7 +19,7 @@ After witnessing the explosive growth of in house content creation from the like
 ## Data
 
 ***
-This analysis leverages data sourced from [IMDB](https://developer.imdb.com/?ref_=helpms_ih_gi_developer) and [Box Office Mojo](https://www.boxofficemojo.com/), two of the most prominent movie related databases. Data sourced from IMDB included information on movie title, genre, runtime and rating, and data from Box Office Mojo included information on box office gross earnings. The variables from IMDB describe important movie characteristics that can impact a movie's performance at the box office.
+This analysis leverages data sourced from [IMDB](https://developer.imdb.com/?ref_=helpms_ih_gi_developer) and [Box Office Mojo](https://www.boxofficemojo.com/), two of the most prominent movie related databases. Data sourced from IMDB included information on movie title, genre, runtime and rating, and data from Box Office Mojo included information on box office gross earnings. The variables from IMDB describe important movie characteristics that can impact a movie's performance at the box office. The dataset encompassed 3027 movies from 2010-2019.
 
 While the data will provide insight on movie box office performance, they do have limitations. Including more data, for example data on MPAA ratings, movie budgets, distribution location, release date, actors, directors, and more, could provide much more detailed insight into how to produce profitable movies.
 
@@ -52,7 +52,7 @@ The descriptive analysis rendered three key insights:
 
 ***
 This analysis provides three recommendations for Microsoft's new movie studio regarding how to decide what type of movies to produce:
-* __Make movies of the highest grossing genres__. The movies that could be categorized in the action, adventure, animation, comedy, fantasy, and sci-fi genres tended to have higher box office earnings. Microsoft should focus on these genres the most.
+* __Make movies of the highest grossing genres__. The movies that could be categorized in the adventure, sci-fi, animation, comedy, fantasy, action, and biography genres tended to have higher box office earnings. Microsoft should focus on these genres the most.
 * __Runtime should not be overlooked__. In general, movies that had longer runtimes also had higher box office earnings. However, once movies surpassed a runtime threshold, box office performance was hampered. Microsoft should focus on making movies within that sweet spot between 90 and 150 minutes.
 * __Ratings are everything__. The data showed that the movies with the higher ratings tended to have higher box office earnings. Microsoft should prioritize making quality, well reviewed movies that can score at least a 6 on IMDb's scale.
 
