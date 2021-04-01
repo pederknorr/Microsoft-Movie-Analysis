@@ -52,7 +52,7 @@ The descriptive analysis rendered three key insights:
 
 ***
 This analysis provides three recommendations for Microsoft's new movie studio regarding how to decide what type of movies to produce:
-* __Make movies of the highest grossing genres__. The movies that could be categorized in the adventure, sci-fi, animation, comedy, fantasy, action, and biography genres tended to have higher box office earnings. Microsoft should focus on these genres the most.
+* __Make movies of the highest grossing genres__. The movies that could be categorized in the action, adventure, animation, fantasy, and sci-fi genres tended to have higher box office earnings. Microsoft should focus on these genres the most.
 * __Runtime should not be overlooked__. In general, movies that had longer runtimes also had higher box office earnings. However, once movies surpassed a runtime threshold, box office performance was hampered. Microsoft should focus on making movies within that sweet spot between 90 and 150 minutes.
 * __Ratings are everything__. The data showed that the movies with the higher ratings tended to have higher box office earnings. Microsoft should prioritize making quality, well reviewed movies that can score at least a 6 on IMDb's scale.
 
